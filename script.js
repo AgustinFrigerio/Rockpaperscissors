@@ -40,3 +40,4 @@ function lose (){
     text.classList.add('resultext');
     text.textContent ='F, perdiste contra una computadora';
 }
+asda
